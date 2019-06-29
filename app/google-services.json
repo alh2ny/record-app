@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "544577661940",
+    "firebase_url": "https://alhaany-bd5ac.firebaseio.com",
+    "project_id": "alhaany-bd5ac",
+    "storage_bucket": "alhaany-bd5ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544577661940:android:d8bf52d41021b8c8",
+        "android_client_info": {
+          "package_name": "com.example.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544577661940-m2f0rh6q1bag39mn8p01kn65ib271ijh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registration",
+            "certificate_hash": "18e5b066356bf47dd6ecd07a64854ec2a4ceb76e"
+          }
+        },
+        {
+          "client_id": "544577661940-5bic4hnhmbrc7g4r0d5n966q5rk6cuu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registration",
+            "certificate_hash": "2ee7984742622544993e64f1c8712a76ae845160"
+          }
+        },
+        {
+          "client_id": "544577661940-95a0tvegnalv0ltq8kf5aeuqngqlb5dd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registration",
+            "certificate_hash": "4397f495928f52963a7cbf15d9d558fc5aa3d88a"
+          }
+        },
+        {
+          "client_id": "544577661940-hmqabc62akd12cbj3eq8lqcb53kb11t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUglM9uFL0pb7oB0J9p_YRa8yScIUFxVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544577661940-hmqabc62akd12cbj3eq8lqcb53kb11t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544577661940:android:b6edb3469f73c2d6",
+        "android_client_info": {
+          "package_name": "com.example.yasseribrahim.recorder_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544577661940-hmqabc62akd12cbj3eq8lqcb53kb11t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUglM9uFL0pb7oB0J9p_YRa8yScIUFxVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544577661940-hmqabc62akd12cbj3eq8lqcb53kb11t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
